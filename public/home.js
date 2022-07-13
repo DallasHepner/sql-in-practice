@@ -105,5 +105,5 @@ function markCompleted(id) {
 }
 
 getPendingAppointments()
-// getUpcomingAppointments()
-// getPastAppointments()
+getUpcomingAppointments()
+getPastAppointments()
